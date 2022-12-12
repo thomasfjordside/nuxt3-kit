@@ -1,6 +1,6 @@
 {
   "name": "@thomasfjordside/nuxt3-kit",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "utils for nuxt",
   "type": "module",
   "exports": {
