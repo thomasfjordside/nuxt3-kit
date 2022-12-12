@@ -5,7 +5,7 @@ Currently only for testing.
 ## Installation
 Npm:
 ```
-npm install @thomasfjordside/nuxt3-kit -D
+npm install @thomasfjordside/nuxt3-kit --save-dev
 ```
 
 Yarn:
