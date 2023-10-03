@@ -1,26 +1,26 @@
 {
-  "name": "@thomasfjordside/nuxt3-kit",
-  "version": "0.5.0",
-  "description": "utils for nuxt",
-  "type": "module",
-  "exports": {
-    ".": "./nuxt.config.js"
-  },
-  "files": [
-    "composables",
-    "nuxt.config.js"
-  ],
-  "scripts": {
-    "test": "exit 0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thomasfjordside/nuxt3-kit.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/thomasfjordside/nuxt3-kit/issues"
-  },
-  "homepage": "https://github.com/thomasfjordside/nuxt3-kit#readme"
+    "name": "@thomasfjordside/nuxt3-kit",
+    "version": "0.6.0",
+    "description": "utils for nuxt",
+    "type": "module",
+    "exports": {
+        ".": "./nuxt.config.js"
+    },
+    "files": [
+        "composables",
+        "nuxt.config.js"
+    ],
+    "scripts": {
+        "test": "exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thomasfjordside/nuxt3-kit.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/thomasfjordside/nuxt3-kit/issues"
+    },
+    "homepage": "https://github.com/thomasfjordside/nuxt3-kit#readme"
 }
